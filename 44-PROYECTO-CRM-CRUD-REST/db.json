@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "name": "Luis",
+      "email": "unidrelyn@gmail.com",
+      "tel": "015731082379",
+      "company": "Genius",
+      "id": 2
+    },
+    {
+      "name": "laura",
+      "email": "laura@laura.com",
+      "tel": "4444444",
+      "company": "zara",
+      "id": 3
+    },
+    {
+      "name": "carlos",
+      "email": "CArlos@carlos.com",
+      "tel": "44444444",
+      "company": "invias",
+      "id": 4
+    }
+  ]
+}
