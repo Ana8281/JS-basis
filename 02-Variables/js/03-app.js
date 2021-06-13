@@ -1,4 +1,4 @@
-//can be reasign
+//can't be reasign
 
 const precio = 100;
 console.log(precio);

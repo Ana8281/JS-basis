@@ -1,4 +1,4 @@
-//remove whtie spaces
+//remove white spaces
 let familie = '       ich liebe meine familie      ';
 
 console.log(familie.length);

@@ -1,3 +1,5 @@
+//strng methods
+
 const screen4 = 'screen 27 \"inches"';
 
 console.log(screen4.length);
